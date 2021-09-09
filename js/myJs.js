@@ -33,7 +33,7 @@ $(document).ready(function () {
   function firstQuestion() {
     $(".content").hide();
     Swal.fire({
-      title: textConfig.text2,
+      title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "img/cuteCat.jpg",
       imageWidth: 300,
