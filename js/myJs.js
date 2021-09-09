@@ -7,11 +7,11 @@ const textConfig = {
   text6: "Có,tớ thích lắm",
   text7: "Tại sao Nghi thích tớ",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu ngáo ngơ",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text9: "Vì cậu gà ",
+  text10: "Tớ biết mà ^^ Yêu Nghi 3000 <3",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Bao giờ có ảnh,video... các kiểu gửi tớ nhá :v Còn giờ thì nhắn tin với tớ đi ",
+  text12: "Oke luôn <3",
 };
 
 $(document).ready(function () {
