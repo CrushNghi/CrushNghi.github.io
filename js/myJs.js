@@ -38,7 +38,7 @@ $(document).ready(function () {
       imageUrl: "img/635a5978ec17517a9fc24532ae5a7847.jpg",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#fff url("img/237953246_164432592462731_3776450432121984403_n.jpg")',
+      background: '#fff url("iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
